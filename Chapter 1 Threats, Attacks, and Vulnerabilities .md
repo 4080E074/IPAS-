@@ -2,7 +2,7 @@
 ```
 1.1 熟悉底下[惡意程式malware]
 Given a scenario, analyze indicators of compromise and determine the type of malware.
-■■ Viruses
+■■ Viruses病毒
 ■■ Crypto-malware
 ■■ Ransomware
 ■■ Worm
