@@ -107,11 +107,11 @@ Types of actors
 ■■ Competitors[競爭對手]
 
 Attributes of actors
-■■ Internal/external
-■■ Level of sophistication
-■■ Resources/funding
-■■ Intent/motivation
-■■ Use of open-source intelligence
+■■ Internal/external內部外部
+■■ Level of sophistication???????????????
+■■ Resources/funding資源資金
+■■ Intent/motivation强调动机/强调目的性
+■■ Use of (open-source intelligence)公開來源情報
 
 1.4 Explain [penetration testing滲透測試] concepts.
 ■■ Active reconnaissance
